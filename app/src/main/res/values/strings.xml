@@ -28,14 +28,14 @@
     <string name="fab_photo">Post a photo</string>
     <string name="fab_checkin">Check In</string>
 
-    <string name="context_save_image">Save image</string>
-    <string name="context_share_image">Share image</string>
-    <string name="context_copy_image_link">Copy image link</string>
-    <string name="context_share_link">Share link</string>
-    <string name="context_copy_link">Copy link</string>
+    <string name="context_save_image">Salva immagine</string>
+    <string name="context_share_image">Condividi immagine</string>
+    <string name="context_copy_image_link">Copia link immagine</string>
+    <string name="context_share_link">Condividi link</string>
+    <string name="context_copy_link">Copia link</string>
 
-    <string name="context_share_image_progress">Sharing image…</string>
-    <string name="content_copy_link_done">Link copied to clipboard</string>
+    <string name="context_share_image_progress">Condividendo immagine…</string>
+    <string name="content_copy_link_done">Link copiato negli appunti</string>
 
     <string name="notifications_setting_title">Notifications</string>
 
@@ -61,8 +61,8 @@
         <item>7200000</item>
     </string-array>
 
-    <string name="notifications_vibration_title">Vibrate</string>
-    <string name="notifications_vibration_summary">When enabled, notifications will make your device vibrate.</string>
+    <string name="notifications_vibration_title">Vibrazione</string>
+    <string name="notifications_vibration_summary">Quando attiva, le notifiche faranno vibrare il tuo device.</string>
 
     <string name="content_setting_title">Content</string>
 
@@ -104,7 +104,5 @@
 
     <string name="loading">Loading</string>
     <string name="notification_multiple_text">%s new notifications.</string>
-    <string name="notification_viewall">View all Notifications</string>
-
-    <string name="permission_denied">Permission denied, cannot complete action</string>
+    <string name="notification_viewall">Mostra tutte le Notifiche</string>
 </resources>
